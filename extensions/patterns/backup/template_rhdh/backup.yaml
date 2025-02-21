@@ -8,9 +8,7 @@ metadata:
     backups
   namespace: default
   tags:
-    - aap-operations
-    - intermediate
-    - network
+    - network-backup
 spec:
   type: service
   parameters:
